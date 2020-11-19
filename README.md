@@ -1,5 +1,5 @@
 # svg_sprite
 
-<div style="background:red">
+<div style="backgroundColor:red">
   <p>testtest</p>
 </div>
